@@ -1,4 +1,5 @@
 # Hi there, I'm West7014/West!
+## This is my secondary acccount. For large projects please see [@thatwest7014](https://github.com/thatwest7014)
 
 I'm a primarily backend developer with [`javascript`] via Node.js with experience with [`lua`] and its [`luau`] and [`luaj`] descendants. Also, a [`html`] developer that also covers UI+UX.
 
