@@ -1,19 +1,18 @@
-# Hi there, I'm West7014/West!
-## This is my secondary acccount. For large projects please see [@thatwest7014](https://github.com/thatwest7014)
+# Hi there, I'm JW or a variety of other names.
 
-I'm a primarily backend developer with [`javascript`] via Node.js with experience with [`lua`] and its [`luau`] and [`luaj`] descendants. Also, a [`html`] developer that also covers UI+UX.
+I'm primarily a fullstack developer and database admin. I also work with C, GML, and Python from time-to-time.
 
-- Pronouns: [PronounPage](https://en.pronouns.page/@west7014)
+- Pronouns: any/all/they/she
 
 ### Key Notes
 
 - Self taught, full stack developer
-- Started coding in **2019**
+- Started coding around **2019**
 
-## Projects
+## Projects I work on
 
-- [[`Nova`](https://github.com/Nirmini/NovaBot-Commands)] - A powerful multipurpose Discord bot for large or small communities.
-- [`HSRF`] - A (nearly) solo ROBLOX game project.
+- [[`Nova`](https://github.com/Nirmini/Nova)] - A Discord bot made to make things easy.
+- [`HSRF`] - A Roblox Science Fiction production.
 > Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.
 
 ### GitHub Stats
