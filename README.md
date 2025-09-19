@@ -1,4 +1,4 @@
-# Hi there, I'm JW or a variety of other names.
+# Hi there, I'm JARP(IG) or a variety of other names.
 
 I'm primarily a fullstack developer and database admin. I also work with C, GML, and Python from time-to-time.
 
@@ -17,8 +17,9 @@ I'm primarily a fullstack developer and database admin. I also work with C, GML,
 
 ### GitHub Stats
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=justarandompersoniguess&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justarandompersoniguess&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West7014&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=justarandompersoniguess&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justarandompersoniguess&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>-->
 
 ---
 
