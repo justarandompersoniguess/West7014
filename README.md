@@ -17,7 +17,7 @@ I'm primarily a fullstack developer and database admin. I also work with C, GML,
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West7014&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justarandompersoniguess&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 > Provided by [`GitHub Readme Stats`]
 
