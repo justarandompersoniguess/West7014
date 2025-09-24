@@ -1,4 +1,4 @@
-# Hi there, I'm JARP(IG) or a variety of other names.
+# Hi there, I'm Kit or JARP or a variety of other names.
 
 I'm primarily a fullstack developer and database admin. I also work with C, GML, and Python from time-to-time.
 
